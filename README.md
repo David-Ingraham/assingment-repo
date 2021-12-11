@@ -1,4 +1,4 @@
-# assingment-repo
+# loan_valuation
 
 Part 1: 
 Automatinge calculations for the loan portfolio summaries.
